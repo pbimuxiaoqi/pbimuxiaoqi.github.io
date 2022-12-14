@@ -6,7 +6,7 @@ importance: 5
 skilled: 3
 status:
 author:
-url: https://www.sqlbi.com/articles/using-allexcept-versus-all-and-values/
+url: www.sqlbi.com/articles/using-allexcept-versus-all-and-values
 cover: 
 ---
 
