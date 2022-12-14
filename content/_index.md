@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: PowerBI.
 enableToc: false
 ---
 
@@ -10,4 +10,8 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 - 这是
 - 一个
 - 测试
+## DAX
+[[RANKX]]
+[[TOPN]]
+[[SUMX]]
 

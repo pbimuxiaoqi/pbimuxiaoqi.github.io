@@ -1,0 +1,46 @@
+---
+created: 2022-06-19
+tags: 外部工具 模型 优化
+subject:
+importance:
+skilled:
+status:
+author:
+url: https://www.wolai.com/muxiaoqi/cHxQtv9mKr51tabnrKBfRz
+cover: 
+---
+
+[Power BI Cleaner Gen2 now covers Analysis Services Models as well (thebiccountant.com)](https://www.thebiccountant.com/2021/08/23/power-bi-cleaner-gen2-now-covers-analysis-services-models-as-well/)
+
+在前面有分享一些外部工具的使用，通过外部工具可以很方便地对报表模型进行优化，比如PowerBI Helper、Dax Studio,可能会有人觉得这些不够方便，没有在PowerBI里面进行，今天来介绍一个国外大佬制作的一个PowerBI模板，从而实现快速优化PowerBI模型。
+
+首先需要打开PowerBI报表，确保设置中是忽略隐私级别
+
+![](https://s2.loli.net/2022/06/21/8HqsdXyuJvTkWPZ.png)
+
+
+然后通过外部工具打开Dax Studio查看本地连接的端口号
+
+![](https://s2.loli.net/2022/06/21/GyxO7cK91kwSf6A.png)
+
+
+打开模板文件，输入端口号及报表文件路径
+
+![](https://s2.loli.net/2022/06/21/Om6IcSN1q2UCAt5.png)
+
+
+![](https://s2.loli.net/2022/06/21/YQ8McWeLtmuF1BH.png)
+
+
+之后就可以通过一些筛选来知道哪些可以被删除，哪些可以被保留
+
+![](https://s2.loli.net/2022/06/21/pnIYD9qRCXlwyU1.png)
+
+
+那它是怎么拿到这些数据的呢？进到PQ页可以看到作者通过查询获取了很多DMV开头的表，看到查询语句熟悉Dax Studio的朋友一定会有一种陌名的亲切感，没错，Dax Studio的DMV模式已经内置了很多这样的命令来供我们查询，这点在介绍用报表说明PowerBI报表时已有介绍 ，再一次证明了Dax Studio的强大。
+
+![](https://s2.loli.net/2022/06/21/MO8nKduoaJwIGz9.png)
+
+
+![](https://s2.loli.net/2022/06/21/bDKoSUirzMWZjpI.png)
+
