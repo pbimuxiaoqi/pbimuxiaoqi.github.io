@@ -10,7 +10,7 @@ importance: 5
 skilled: 4
 status: 
 author: 
-url: "https://dax.guide/allexcept"
+web: "https://dax.guide/allexcept"
 cover: 
 ---
 

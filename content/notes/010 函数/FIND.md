@@ -7,7 +7,7 @@ importance: 3
 skilled: 4
 status: 
 author: 
-url: "https://dax.guide/find/"
+web: "https://dax.guide/find/"
 cover: 
 ---
 

@@ -6,7 +6,7 @@ importance: 5
 skilled: 3
 status: 
 author: 
-url: "https://dax.guide/topn/"
+web: "https://dax.guide/topn/"
 cover: 
 ---
 

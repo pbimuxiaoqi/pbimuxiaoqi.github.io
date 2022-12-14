@@ -8,7 +8,7 @@ importance: 3
 skilled: 4
 status: 
 author: 
-url: "https://dax.guide/allnoblankrow"
+web: "https://dax.guide/allnoblankrow"
 cover: 
 ---
 
