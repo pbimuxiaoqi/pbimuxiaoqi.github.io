@@ -88,3 +88,6 @@ CALCULATE([Measure], ALLEXCEPT(Calendar, Calendar[Year]))
 ## 相关
 
 [[03.5 VALUES与DISTINCT]]
+
+
+
