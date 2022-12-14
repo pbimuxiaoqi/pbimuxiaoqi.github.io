@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "3b5bfc4ce3fe03e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5e52ed9b59a592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d86ca25d1fc73f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "392df15d4e239a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d42c7b12d267355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59821daff790c860",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d604790de67f5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e35f418d3ef231bb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47079c81b3d76e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e06f7f23378472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2e8004fc89c185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2438f4981b98c73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09fdc2f2d1f15b0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9255d9c47c1dfe54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d86ca25d1fc73f6",
+  "lastOpenFiles": [
+    "RANKX.md",
+    "content/_index.md",
+    "content/notes/DAX/ALL.md",
+    "content/notes/DAX/SUMX.md"
+  ]
+}
