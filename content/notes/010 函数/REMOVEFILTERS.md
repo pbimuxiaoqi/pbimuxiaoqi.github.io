@@ -9,7 +9,7 @@ importance: 5
 skilled: 5
 status:
 author:
-url: https://dax.guide/removefilters
+web: https://dax.guide/removefilters
 cover: 
 ---
 

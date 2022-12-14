@@ -3,7 +3,7 @@ created:
 tags: 聚合 迭代
 score: 5
 subject: 迭代
-url: https://dax.guide/filter/
+web: https://dax.guide/filter/
 ---
 返回为表中的每一行计算的表达式的和。
 参考来源：https://dax.guide/filter/

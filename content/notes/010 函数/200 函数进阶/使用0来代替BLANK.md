@@ -8,7 +8,7 @@ importance: 5
 skilled: 3
 status:
 author: sqlbi
-url: https://www.wolai.com/muxiaoqi/tLQ1HES8DFDtaBuJf4n6ff
+web: https://www.wolai.com/muxiaoqi/tLQ1HES8DFDtaBuJf4n6ff
 cover: 
 ---
 https://www.sqlbi.com/articles/how-to-return-0-instead-of-blank-in-dax/

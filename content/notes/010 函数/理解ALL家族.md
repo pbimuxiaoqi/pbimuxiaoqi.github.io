@@ -6,7 +6,7 @@ importance:
 skilled:
 status:
 author:
-url: https://www.sqlbi.com/articles/managing-all-functions-in-dax-all-allselected-allnoblankrow-allexcept/
+web: https://www.sqlbi.com/articles/managing-all-functions-in-dax-all-allselected-allnoblankrow-allexcept/
 cover: 
 ---
 

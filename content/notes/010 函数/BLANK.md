@@ -8,7 +8,7 @@ importance: 5
 skilled: 4
 status:
 author:
-url: https://dax.guide/blank/
+web: https://dax.guide/blank/
 cover: 
 ---
 

@@ -6,7 +6,7 @@ importance: 5
 skilled: 3
 status:
 author: sqlbi
-url: https://www.sqlbi.com/articles/blank-row-in-dax/ https://www.sqlbi.com/articles/how-to-handle-blank-in-dax-measures/
+web: https://www.sqlbi.com/articles/blank-row-in-dax/ https://www.sqlbi.com/articles/how-to-handle-blank-in-dax-measures/
 cover: 
 ---
 

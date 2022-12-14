@@ -5,7 +5,7 @@ subject: dax
 importance: 5
 skilled: 5
 status:
-url: https://dax.guide/lookupvalue/
+web: https://dax.guide/lookupvalue/
 cover: 
 ---
 从表中检索满足所有匹配条件的值。

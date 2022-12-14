@@ -5,7 +5,7 @@ subject: dax
 importance: 5
 skilled: 5
 status:
-url: https://dax.guide/userelationship/
+web: https://dax.guide/userelationship/
 cover: 
 ---
 

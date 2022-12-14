@@ -7,7 +7,7 @@ subject: dax
 importance: 3
 skilled: 2
 status:
-url: https://dax.guide/crossfilter/
+web: https://dax.guide/crossfilter/
 cover: 
 ---
 指定 DAX 表达式在求值过程中使用的交叉筛选的方向。

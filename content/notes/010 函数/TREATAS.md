@@ -5,7 +5,7 @@ subject: dax
 importance: 5
 skilled: 5
 status:
-url: https://dax.guide/treatas/
+web: https://dax.guide/treatas/
 cover: 
 ---
 
